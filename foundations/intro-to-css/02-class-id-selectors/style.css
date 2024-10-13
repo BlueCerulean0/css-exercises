@@ -1,0 +1,26 @@
+.num1cl, .num5cl {
+    background-color: pink;
+    font-weight: 450;
+}
+
+#num2id {
+    color: blue;
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.num3cl {
+    background-color: pink;
+    color: black;
+    font-size: 25px;
+    font-weight: 200;
+}
+
+#num4id {
+    background-color: rgb(148, 247, 135);
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+
